@@ -34,7 +34,7 @@ config.blockExplorerUrl = 'http://explorer2.elphyrecoin.xyz/?hash=[[TX_HASH]]#bl
 config.remoteNodeDefaultHost = '46.105.124.204';
 
 // remote node list update url, set to null if you don't have one
-config.remoteNodeListUpdateUrl = null;
+config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/elphyrecoin/elphyrecoin-nodes-json/master/elphyrecoin-nodes.json';
 
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
