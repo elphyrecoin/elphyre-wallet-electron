@@ -31,7 +31,7 @@ config.walletServiceRpcPort = 45502;
 config.blockExplorerUrl = 'http://explorer2.elphyrecoin.xyz/?hash=[[TX_HASH]]#blockchain_transaction';
 
 // default remote node to connect to, set this to a known reliable node for 'just works' user experience
-config.remoteNodeDefaultHost = '46.105.124.204';
+config.remoteNodeDefaultHost = 'seed1.elphyrecoin.xyz';
 
 // remote node list update url, set to null if you don't have one
 config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/elphyrecoin/elphyrecoin-nodes-json/master/elphyrecoin-nodes.json';
