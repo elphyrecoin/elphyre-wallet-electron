@@ -51,7 +51,7 @@ config.assetTicker = 'ELPH';
 // your currency address prefix, for address validation
 config.addressPrefix = 'Phyrex';
 // standard wallet address length, for address validation
-config.addressLength = 99;
+config.addressLength = 101;
 // intergrated wallet address length, for address validation
 config.integratedAddressLength = 187;
 
