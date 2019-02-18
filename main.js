@@ -26,7 +26,7 @@ const SERVICE_OSDIR = (platform === 'win32' ? 'win' : (platform === 'darwin' ? '
 const DEFAULT_SERVICE_BIN = path.join(process.resourcesPath, 'bin', SERVICE_OSDIR, SERVICE_FILENAME);
 const DEFAULT_SETTINGS = {
     service_bin: DEFAULT_SERVICE_BIN,
-    service_host: '46.105.124.204',
+    service_host: '127.0.0.1',
     service_port: config.walletServiceRpcPort,
     service_password: crypto.randomBytes(32).toString('hex'),
     daemon_host: config.remoteNodeDefaultHost,
@@ -34,7 +34,7 @@ const DEFAULT_SETTINGS = {
     node_address: `${config.remoteNodeDefaultHost}:${config.daemonDefaultRpcPort}`,
     pubnodes_date: null,
     pubnodes_data: config.remoteNodeListFallback,
-    pubnodes_custom: ['46.105.124.204:45501'],
+    pubnodes_custom: ['seed1.elphyrecoin.xyz:45501'],
     pubnodes_exclude_offline: false,
     tray_minimize: false,
     tray_close: false,
