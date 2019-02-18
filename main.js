@@ -34,7 +34,7 @@ const DEFAULT_SETTINGS = {
     node_address: `${config.remoteNodeDefaultHost}:${config.daemonDefaultRpcPort}`,
     pubnodes_date: null,
     pubnodes_data: config.remoteNodeListFallback,
-    pubnodes_custom: ['127.0.0.1:45501'],
+    pubnodes_custom: ['46.105.124.204:45501'],
     pubnodes_exclude_offline: false,
     tray_minimize: false,
     tray_close: false,
