@@ -4,7 +4,7 @@
 
 ### Features:
 
-This wallet contains the basic functions required to mvanage your Elphyrecoin assets:
+This wallet contains the basic functions required to manage your Elphyrecoin assets:
 
 * Wallet creation:
   * Create new wallet.
