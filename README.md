@@ -44,11 +44,6 @@ This wallet contains the basic functions required to manage your Elphyrecoin ass
 2. Make it executable, either via GUI file manager or command line, e.g. `chmod +x walletshell-<version>-linux.AppImage`
 3. Run/execute the file, double click in file manager, or run via shell/command line (See: https://docs.appimage.org/user-guide/run-appimages.html)
 
-#### macOS
-1. Download latest archive here: https://github.com/elphyrecoin/elphyre-wallet-electron/releases/latest
-2. Extract downloaded zip archived
-3. Run the executable binary (`WalletShell.app/Contents/MacOs/WalletShell`)
-
 ### Building/Packaging WalletShell
 You need to have `Node.js` and `npm` installed, go to https://nodejs.org and find out how to get it installed on your platform.
 
