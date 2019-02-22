@@ -1,3 +1,5 @@
+[![Elphyrecoin](https://pool.elphyrecoin.xyz/themes/elphyrecoin-logo.png)][Elphyrecoinlogo]
+
 ## WalletShell - GUI wallet for Elphyrecoin.
 
 ### Features:
