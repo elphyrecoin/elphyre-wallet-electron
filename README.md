@@ -1,7 +1,5 @@
 ## WalletShell - GUI wallet for Elphyrecoin.
 
-![WalletShell Screens](https://pool.elphyrecoin.xyz/themes/elphyrecoin-logo.png "WalletShell Screens")
-
 ### Features:
 
 This wallet contains the basic functions required to manage your Elphyrecoin assets:
