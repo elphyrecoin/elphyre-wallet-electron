@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'ewl';
 config.walletServiceBinaryFilename = 'elphyre-service';
 
 // version on the bundled service (elphyre-service)
-config.walletServiceBinaryVersion = "v2-0.1.0.24";
+config.walletServiceBinaryVersion = "0.1.0.24";
 
 // config file format supported by wallet service, possible values:
 // ini -->  for turtle service (or its forks) version <= v0.8.3
@@ -74,8 +74,8 @@ config.addressBookObfuscationKey = '79009fb00ca1b7130832a42de45142cf6c4b7f333fe6
 // initial/sample entries to fill new address book
 config.addressBookSampleEntries = [
   {
-    name: 'WalletShell Donation',
-    address: 'PhyrexWyxTzMTapYs8TwREP4En13dcVnRaD2hM2QuT1cX9vHLxvs7QTZTi6JxggRqzSwwJZiRVn4gbYxerajEQve8bTKzWbmQwk5G',
+    name: 'Elphyrecoin Wallet Donation',
+    address: 'PhyrexWRcyzBZTbuGpBDUY1um24JrokRiifHgpsLKVXvNuzrLJFftEJgFLq9upTCaUgrNM5MXPVktfEfLzBHBRNDLSDTwyhCYfe3R',
     paymentId: '',
   }
 ];

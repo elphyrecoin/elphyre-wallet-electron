@@ -2,7 +2,7 @@
   "name": "elphyre-walletshell",
   "productName": "Elphyre-WalletShell",
   "description": "Elphyrecoin GUI Wallet",
-  "version": "v2.0.1",
+  "version": "v2.0.2",
   "homepage": "https://github.com/elphyrecoin/elphyre-wallet-electron",
   "repository": "https://github.com/elphyrecoin/elphyre-wallet-electron",
   "main": "main.js",
@@ -38,7 +38,7 @@
   },
   "build": {
     "appId": "lol.elphyrecoin.walletshell",
-    "copyright": "Copyright (c) 2018 citizenz7, Elphyrecoin Developer",
+    "copyright": "Copyright (c) 2019 citizenz7, Elphyrecoin Developer",
     "directories": {
       "output": "dist",
       "buildResources": "build"
