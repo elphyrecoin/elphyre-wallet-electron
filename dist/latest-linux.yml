@@ -1,0 +1,9 @@
+version: 2.0.3
+files:
+  - url: Elphyre-WalletShell-v2.0.3-linux.AppImage
+    sha512: 8873uvypOfeq97teU/s12YQoSU/FtEr6h+gVYuhUao1YwMOWq+JIdZ0leM/T8SAhWZvm8eAmxsdpUFlzTPh/7A==
+    size: 78851123
+    blockMapSize: 83319
+path: Elphyre-WalletShell-v2.0.3-linux.AppImage
+sha512: 8873uvypOfeq97teU/s12YQoSU/FtEr6h+gVYuhUao1YwMOWq+JIdZ0leM/T8SAhWZvm8eAmxsdpUFlzTPh/7A==
+releaseDate: '2019-06-06T04:31:22.747Z'

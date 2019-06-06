@@ -1,0 +1,8 @@
+version: 2.0.3
+files:
+  - url: Elphyre-WalletShell-v2.0.3-win-setup.exe
+    sha512: 8Jvpq0xX2jp0PVMAtZwhufxwkrqOr4YVjoRMaCAjmapKZ8qb29FlZv4gUX+gc1+hl6mmmcHlidAtOou/hUJPEg==
+    size: 41892120
+path: Elphyre-WalletShell-v2.0.3-win-setup.exe
+sha512: 8Jvpq0xX2jp0PVMAtZwhufxwkrqOr4YVjoRMaCAjmapKZ8qb29FlZv4gUX+gc1+hl6mmmcHlidAtOou/hUJPEg==
+releaseDate: '2019-06-06T04:31:52.999Z'

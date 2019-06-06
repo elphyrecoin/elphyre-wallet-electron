@@ -1,0 +1,6 @@
+owner: elphyrecoin
+repo: elphyre-wallet-electron
+provider: github
+updaterCacheDirName: elphyre-walletshell-updater
+publisherName:
+  - Elphyrecoin

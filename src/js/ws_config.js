@@ -42,7 +42,6 @@ config.remoteNodeListFallback = [
   'seed2.elphyrecoin.xyz:45501',
   'seed3.elphyrecoin.xyz:45501',
   'seed4.elphyrecoin.xyz:45501',
-  'seed6-asia-OCS.elphyrecoin.xyz:45501',
 ];
 
 // your currency name
