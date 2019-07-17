@@ -2,7 +2,7 @@
   "name": "elphyre-walletshell",
   "productName": "Elphyre-WalletShell",
   "description": "Elphyrecoin GUI Wallet",
-  "version": "v2.0.3",
+  "version": "v2.0.4",
   "homepage": "https://github.com/elphyrecoin/elphyre-wallet-electron",
   "repository": "https://github.com/elphyrecoin/elphyre-wallet-electron",
   "main": "main.js",
